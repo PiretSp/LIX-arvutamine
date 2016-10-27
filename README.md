@@ -1,5 +1,7 @@
 #i200 LIX arvutamine
 
+PROJEKTI JAVAFX-I VARIANT ASUB SIIN: https://github.com/PiretSp/LixArvutamineJavaFX
+
 Loetavusindeks LIX on välja töötatud rootslase Björnssoni poolt 1968. aastal. Sellise programmi eesmärgiks on välja arvutada teksti keerukus. See on vajalik, kuna lugemis- ja kirjutamisraskustega õpilaste puhul on vaja tekste lihtsustada - pikad sõnad (7 või rohkem tähte) asendada lühematega ja laused teha võimalikult lühikeseks. Lugemisraskustega õpilastel on pikki sõnu ja lauseid keeruline mõista.
 
 Programm näeks välja järgmine:
